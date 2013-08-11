@@ -25,6 +25,10 @@ Thumbs.db
 *.sbr
 *.nuspec
 *.js
+*.xml
+*.nupkg
+*.psd1
+*.psm1
 obj/
 [Rr]elease*/
 _ReSharper*/
